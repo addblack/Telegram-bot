@@ -61,7 +61,6 @@ bot.on('callback_query', query => {
   })
 });
 
-
  /*
  This is for default message 
 // Listen for any kind of message. There are different kinds of
